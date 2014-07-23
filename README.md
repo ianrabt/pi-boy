@@ -1,9 +1,9 @@
 pi-boy
 ======
 
-#Description
+##Description
 A mimic of the Pip-Boy 3000 from "Fallout: New Vegas" intended for the Raspberry Pi or any other portable linux device. May require specific hardware for some features.
-##Window Tree
+###Window Tree
 * Stats - Settings and device information
   * Status **TODO**
     * SYS - CPU, RAM, and process information.
@@ -12,16 +12,16 @@ A mimic of the Pip-Boy 3000 from "Fallout: New Vegas" intended for the Raspberry
 * Items
 * Data - All actual functionality
 
-#Installation
-##Dependencies
+##Installation
+###Dependencies
 ```
 libmpdclient (mpd)
 SDL 2
 libconfig
 ```
 
-##Building
+###Building
 **TODO**
 
-#Configuration
+##Configuration
 **TODO**
